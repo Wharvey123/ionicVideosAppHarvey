@@ -1,0 +1,12 @@
+/* Variables bàsiques d'Ionic */
+:root {
+    --ion-color-primary: #3880ff;
+    --ion-font-family: 'Helvetica Neue', sans-serif;
+}
+
+/* Reset bàsic */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
